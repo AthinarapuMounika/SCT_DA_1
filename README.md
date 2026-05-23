@@ -14,7 +14,7 @@ Microsoft Power BI
 ## Dataset 
 
 - **Source: Superstore Sales Dataset 
-- **File Used: SampleSuperstore.csv
+- **File Used: SampleSuperstore.csv from Kaggle
 - **Key Columns: Order Date, Sales, Profit, Category, Region
 
 ## Data Cleaning Steps

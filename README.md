@@ -1,4 +1,4 @@
-# SCT_DA_1 - Superstore Sales Dashboard
+# SCT_DA_1 - Excel Superstore Sales Dashboard
 
 - **Track: Data Analytics
 - **Task: Task 1
@@ -41,7 +41,8 @@ Microsoft Power BI
 
 ## Dashboard Screenshot
 
-![Dashboard Image](superstore sales dashboard.png)
+<img width="966" height="634" alt="Superstore sales dashboard" src="https://github.com/user-attachments/assets/011dcc8a-ab66-4bb5-b4ef-867f5863fdda" />
+
 
 ## Result
 

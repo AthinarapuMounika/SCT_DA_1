@@ -11,9 +11,9 @@ Create an interactive sales dashboard using the Superstore dataset to analyze bu
 
 Microsoft Power BI
 
-## Dataset
+## Dataset 
 
-- **Source: Superstore Sales Dataset
+- **Source: Superstore Sales Dataset 
 - **File Used: SampleSuperstore.csv
 - **Key Columns: Order Date, Sales, Profit, Category, Region
 

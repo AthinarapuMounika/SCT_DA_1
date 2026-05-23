@@ -1,67 +1,48 @@
-Task 01 — Excel/Power BI Sales Dashboard
+# SCT_DA_1 - Superstore Sales Dashboard
 
-An end-to-end dashboard project using Power BI and the Superstore dataset to analyze sales performance through interactive visualizations, KPI cards, charts, and filters.
+- **Track: Data Analytics
+- **Task: Task 1
 
-Objective
+## Objective
 
-Create an interactive dashboard to visualize:
+Create an interactive sales dashboard using the Superstore dataset to analyze business performance. Visualize sales, profit, and trends using Power BI.
 
-Total Sales KPI
-Profit by Category
-Sales Trends over time
-Regional filtering and insights
-High/low performer highlighting using conditional formatting
-Dataset
+## Tool Used
 
-Source: Sample Superstore Dataset
+Microsoft Power BI
 
-Property	Details
-File	SampleSuperstore.csv
-Key Columns	Order Date, Sales, Profit, Category, Region
-Tool Used	Power BI
-Requirements
+## Dataset
 
-Install:
+- **Source: Superstore Sales Dataset
+- **File Used: SampleSuperstore.csv
+- **Key Columns: Order Date, Sales, Profit, Category, Region
 
-Power BI Desktop
-Dashboard Components
-Component	Purpose
-Total Sales Card	Displays overall sales
-Profit by Category	Compare category-wise profit
-Sales Trend Line Chart	Analyze sales over time
-Region Slicer	Filter dashboard by region
-Project Structure
-SCT_DA_1/
-│
-├── Superstore_Sales_Dashboard.pbix
-├── dashboard_screenshot.png
-├── SampleSuperstore.csv
-└── README.md
-How to Run
-Open Power BI Desktop
-Click Get Data → Text/CSV
-Upload SampleSuperstore.csv
-Click Load
-Create visuals step by step
-Save dashboard as .pbix
-Analysis Steps
-Step	Description
-1	Load dataset
-2	Create Total Sales card
-3	Create Profit by Category chart
-4	Create Sales Trend line chart
-5	Add Region slicer
-6	Apply conditional formatting
-7	Arrange dashboard layout
-Key Findings
-Technology category generated higher profit
-Sales trends changed across time periods
-Region slicer enabled interactive filtering
-Dashboard provides quick business insights
-Result
+## Data Cleaning Steps
+
+- Loaded dataset into Power BI
+- Checked data types
+- Converted Order Date into date format
+- Verified missing values
+- Prepared data for visualization
+
+## Charts Created
+
+1. Total Sales Card — Displays overall sales
+2. Profit by Category — Category-wise profit comparison
+3. Sales Trend — Sales performance over time
+4. Region Slicer — Interactive filtering
+
+## Key Insights
+
+- Technology category generated higher profits
+- Sales trends varied over time
+- Regional filters improved analysis
+- Dashboard provided useful business insights
+
+## Dashboard Screenshot
+
+![Dashboard Image](superstore sales dashboard.png)
+
+## Result
 
 Successfully created an interactive Superstore Sales Dashboard using Power BI.
-
-License
-
-This project is for educational and internship purposes only.
